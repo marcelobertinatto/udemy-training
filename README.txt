@@ -1,8 +1,4 @@
 teste
 
 
-
-teste
-
-
-teste
+ this is a new training session with git hub commands
